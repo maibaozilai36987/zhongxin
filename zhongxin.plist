@@ -1,11 +1,4 @@
-<pre style="box-sizing: border-box; font-family: Consolas, Menlo, Courier, monospace; font-size: 16px; white-space: pre-wrap; position: relative; line-height: 1.5; color: rgb(153, 153, 153); margin: 1em 0px; padding: 12px 10px; background-color: rgb(244, 245, 246); border: 1px solid rgb(232, 232, 232);"><?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<!--
- Property List.plist
- David
- Created by David on 2018/10/25.
- Copyright (c) 2018年 MOON All rights reserved.
--->
+
 <plist version="1.0">
  <dict>
  <key>items</key>
@@ -25,7 +18,7 @@
  <key>needs-shine</key>
  <true/>
  <key>url</key>
- <string>57*57app图标链接</string>
+ <string>57*57app鍥炬爣閾炬帴</string>
  </dict>
  <dict>
  <key>kind</key>
@@ -33,7 +26,7 @@
  <key>needs-shine</key>
  <true/>
  <key>url</key>
- <string>521*521app图标链接</string>
+ <string>521*521app鍥炬爣閾炬帴</string>
  </dict>
  </array>
  <key>metadata</key>
@@ -47,7 +40,7 @@
  <key>subtitle</key>
  <string>App</string>
  <key>title</key>
- <string>众鑫娱乐</string>
+ <string>浼楅懌濞变箰</string>
  </dict>
  </dict>
  </array>
@@ -55,4 +48,3 @@
 
 </plist>
 
-</pre>
